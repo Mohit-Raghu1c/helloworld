@@ -2,4 +2,4 @@
  <br>
 author mohit raghuwanshi
 <br>
-Just learning things from now
+Just learning things from now(right now)
